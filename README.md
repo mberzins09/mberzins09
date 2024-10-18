@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋, I am Martins Berzins
+
+I am a passionate and skilled software developer with expertise in C#, MySQL, GIT, HTML, JavaScript, and TypeScript. I thrive on solving complex problems and creating efficient, scalable solutions. With a keen eye for detail and a commitment to continuous learning, I enjoy tackling new challenges in the ever-evolving world of technology.
+
+Outside of work, I am an avid sports enthusiast who enjoys all kinds of sports, with a special love for basketball and table tennis. When I’m not coding or playing sports, I cherish spending quality time with my wife and son, making the most of family moments.
+
 
 <!--
 **mberzins09/mberzins09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
