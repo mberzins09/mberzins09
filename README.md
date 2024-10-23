@@ -19,7 +19,7 @@ Outside of work, I am an avid sports enthusiast who enjoys all kinds of sports, 
 
 ---
 ### Last projects
- * [Contacts Mobile App](https://github.com/mberzins09/ContactsMobileApp) - Mobile app where you can add, edit, delite and view contacts.  <!-- <img src=https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg alt="DotNet Logo" width="20"/> <img src=https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg alt="Angular Logo" width="20"/> <img src=https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg alt="SQLite Logo" width="20"/> pieliek izmantotie tooli-->
+ * [Contacts Mobile App](https://github.com/mberzins09/ContactsMobileApp) - Mobile app where you can add, edit, delete and view contacts.  <!-- <img src=https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg alt="DotNet Logo" width="20"/> <img src=https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg alt="Angular Logo" width="20"/> <img src=https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg alt="SQLite Logo" width="20"/> pieliek izmantotie tooli-->
 <details><summary>Other projects</summary>
 
   <!--
