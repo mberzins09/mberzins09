@@ -19,8 +19,9 @@ Outside of work, I am an avid sports enthusiast who enjoys all kinds of sports, 
 
 ---
 ### Last projects
- * [Contacts Mobile App](https://github.com/mberzins09/ContactsMobileApp) - Mobile app where you can add, edit, delete and view contacts.
- * [LGTF Mobile App](https://github.com/mberzins09/RankingApp) - Mobile app where you can add, edit, delete tournaments and games of table tennis. View current Latvia table tennis rankings for men, women, and combined ranking.  <!-- <img src=https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg alt="DotNet Logo" width="20"/> <img src=https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg alt="Angular Logo" width="20"/> <img src=https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg alt="SQLite Logo" width="20"/> pieliek izmantotie tooli-->
+ * [Contacts Mobile App](https://github.com/mberzins09/ContactsMobileApp) - Mobile app where you can add, edit, delete and view contacts. Created using .NET MAUI
+ * [LGTF Mobile App](https://github.com/mberzins09/RankingApp) - Mobile app where you can add, edit, delete tournaments and games of table tennis. View current Latvia table tennis rankings for men, women, and combined ranking. Created using .NET MAUI
+ * [Rick&Morty App](https://github.com/mberzins09/RMorty) - Website for showing Rick & Morty Characters. Created using React + Vite + TS <!-- <img src=https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg alt="DotNet Logo" width="20"/> <img src=https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg alt="Angular Logo" width="20"/> <img src=https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg alt="SQLite Logo" width="20"/> pieliek izmantotie tooli-->
 <details><summary>Other projects</summary>
 
   <!--
