@@ -1,8 +1,8 @@
 ## Hi there 👋, I am Martins Berzins
 
-I am a passionate and skilled software developer with expertise in C#, MySQL, GIT, HTML, JavaScript, and TypeScript. I thrive on solving complex problems and creating efficient, scalable solutions. With a keen eye for detail and a commitment to continuous learning, I enjoy tackling new challenges in the ever-evolving world of technology.
+I am software developer with practice in C#, MySQL, GIT, HTML, Python, JavaScript, and TypeScript. I like to learn new skills and develop myself. I like order at work, and I value responsibility highly.
 
-Outside of work, I am an avid sports enthusiast who enjoys all kinds of sports, with a special love for basketball and table tennis. When I’m not coding or playing sports, I cherish spending quality time with my wife and son, making the most of family moments.
+Outside of work, I enjoy all kinds of sports, with a special love for basketball and table tennis. When I’m not coding or playing sports, I cherish spending quality time with my wife and son, making the most of family moments.
 
 <a href=https://www.linkedin.com/in/martinsberzins1989/><img align="left" src=https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg alt="Martins Berzins | LinkedIn" width="30"/></a>
 </br>
